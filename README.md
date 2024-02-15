@@ -1,11 +1,11 @@
-### Odpowiedzi na przesłane pytanie znajdują się w pliku `odpowiedzi.pdf`
+### Odpowiedzi na przesłane pytanie znajdują się w pliku `Odpowiedzi.pdf`
 ### Aby uruchomić zadania testowe należy wykonać poniższe kroki: 
 
 ##### 1. Sklonuj repo:
     git clone https://github.com/MarcelDrugi/RecruitmentTasks
 ##### 2. Przejdź do katalogu z zadaniami:
-    cd RecruitmentTasks
-##### 3. W celu załadowania classloadera uruchom Composera:
+    cd RecruitmentTasks/RecruitmentTasks
+##### 3. W w celu załadowania classloadera uruchom Composera:
     composer install
     composer dump-autoload
 ##### 4. W pliku `.env` ustaw połączenie ze swoją bazą danych uzupełniając 3 pola:
