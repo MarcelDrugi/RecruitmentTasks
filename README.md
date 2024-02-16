@@ -1,5 +1,5 @@
-### Odpowiedzi na przesłane pytanie znajdują się w pliku `Odpowiedzi.pdf`
-### Aby uruchomić zadania testowe należy wykonać poniższe kroki: 
+### Odpowiedzi na przesłane pytania znajdują się w pliku `Odpowiedzi.pdf`
+### W celu uruchomienia zadań testowych należy wykonać poniższe kroki: 
 
 ##### 1. Sklonuj repo:
     git clone https://github.com/MarcelDrugi/RecruitmentTasks
